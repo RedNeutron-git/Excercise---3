@@ -10,7 +10,7 @@ apt install python
 ```sh
 https://www.python.org/downloads/release/python-2718/
 ```
-##Example
+**Example**
 ```sh
 PS C:\Users\Python> python .\bf-md5.py
     md5 hash: 88006a6cdf469ab05525824f9c2c3759
