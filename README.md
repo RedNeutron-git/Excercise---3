@@ -19,3 +19,4 @@ PS C:\Users\Python> python .\bf-md5.py
     You got it: trycrackme!
 ```
 
+> Note: `wordlist.txt` the only sample, you can use the other wordlist.
