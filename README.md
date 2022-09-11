@@ -1,5 +1,6 @@
 ## Excercise---3
 Simple md5 bruteforce hash tool
+This tool can be used as a bruteforce attack (ethical purpose) on the md5 hash, or you can modify it to be able to perform a bruteforce attack on another hash. Basically, the bruteforce attack uses the continuous trial-and-error method to explore them decisively. Happy experimenting!
 
 ## Require Python 2
 **Linux or MacOS**
